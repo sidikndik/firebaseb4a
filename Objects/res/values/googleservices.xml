@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="firebase_database_url" translatable="false" />
+  <string name="gcm_defaultSenderId" translatable="false">407968643880</string>
+  <string name="google_storage_bucket" translatable="false">devdkapster.appspot.com</string>
+  <string name="project_id" translatable="false">devdkapster</string>
+  <string name="google_app_id" translatable="false">1:407968643880:android:c0b5e9931eb0ce16286e1d</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYtp7rlFx9xQjl1uAsLHBf5TDhq--nX3k</string>
+  <string name="google_api_key" translatable="false">AIzaSyDYtp7rlFx9xQjl1uAsLHBf5TDhq--nX3k</string>
+  <string name="default_web_client_id" translatable="false">407968643880-eo2o1cd92fs5f44al3pnh3vm7nr48fk5.apps.googleusercontent.com</string>
+</resources>
